@@ -1,7 +1,7 @@
 body{
     align-items: center;
-    background-image:url(/home/moringa/Ki-1Radio/leo/RADIOMIC.jpg);
-    color:white;
+    background-image:url(/home/moringa/Ki-1Radio/leo/wall.jpeg);
+    color:rgb(255, 255, 255);
     background-attachment: fixed;
     background-size: cover;
 }
@@ -12,9 +12,9 @@ body{
     background-color: white;
     word-spacing: 3cm;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     color: white;
-    background-image: url(/home/moringa/Ki-1Radio/leo/RADIOMIC.jpg);
+    background-image: url(/home/moringa/Ki-1Radio/leo/RADIOEQPT.jpg);
 }
 .nav2{
     border: 1px solid black;
@@ -22,13 +22,13 @@ body{
     box-sizing: border-box;
     word-spacing:9cm;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     background-color: white;
     background-image: url(/home/moringa/Ki-1Radio/leo/RADIOMIC.jpg);
 }
 .h1{
     text-align: center;
-    color:white;
+    color:rgb(0, 247, 255);
     font-family: 'Courier New', Courier, monospace;
     font-size: x-large;
 }
@@ -41,17 +41,15 @@ body{
     word-spacing:15cm;
 }
 button{
-    padding: 5px 10px;
+    padding:10px 15px;
     font-size: 10px;
     line-height: 10px;
-    align-items: center;
-    min-width: 50px;
     cursor: pointer;
     background-color: black;
     border-radius: 8px;
     color:white;
     background: linear-gradient(to right bottom, green,yellow);
-    border: 0px;
+    border: 10px;
 
 }
 a{
@@ -60,4 +58,31 @@ a{
 }
 #more{
     color: blue;
+}
+.footer{
+    background-image: url(/home/moringa/Ki-1Radio/leo/RADIOMIC.jpg);
+}
+#table{
+    color: black;
+    background-image: url(/home/moringa/Ki-1Radio/leo/GOLD.jpeg);
+    height: 150px;
+    width: 1500px;
+}
+.tr{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+th{
+    color: red;
+    font-size: 20px;
+}
+#kradio{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: red;
+    position: absolute;
 }

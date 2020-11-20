@@ -1,0 +1,63 @@
+body{
+    align-items: center;
+    background-image:url(/home/moringa/Ki-1Radio/leo/RADIOMIC.jpg);
+    color:white;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.nav1{
+    border: 1px solid black;
+    border-style: ridge;
+    box-sizing: border-box;
+    background-color: white;
+    word-spacing: 3cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    background-image: url(/home/moringa/Ki-1Radio/leo/RADIOMIC.jpg);
+}
+.nav2{
+    border: 1px solid black;
+    border-style: ridge;
+    box-sizing: border-box;
+    word-spacing:9cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: white;
+    background-image: url(/home/moringa/Ki-1Radio/leo/RADIOMIC.jpg);
+}
+.h1{
+    text-align: center;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
+#tr{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.footer{
+    border: 1px solid black;  
+    word-spacing:15cm;
+}
+button{
+    padding: 5px 10px;
+    font-size: 10px;
+    line-height: 10px;
+    align-items: center;
+    min-width: 50px;
+    cursor: pointer;
+    background-color: black;
+    border-radius: 8px;
+    color:white;
+    background: linear-gradient(to right bottom, green,yellow);
+    border: 0px;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#more{
+    color: blue;
+}

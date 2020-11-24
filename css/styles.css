@@ -1,9 +1,7 @@
 body{
     align-items: center;
-
-    background-image:url(/css/images/GREY.jpg);
+    background-color: gray;
     color:white;
-
     background-attachment: fixed;
     background-size: cover;
 }
@@ -11,12 +9,11 @@ body{
     border: 1px solid black;
     border-style: ridge;
     box-sizing: border-box;
-    background-color: white;
     word-spacing: 3cm;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     color: white;
-    background-image: url(/css/images/RADIOEQPT.jpg);
+   background-color: grey;
 }
 .nav2{
     border: 1px solid black;
@@ -25,8 +22,7 @@ body{
     word-spacing:9cm;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    background-color: white;
-    background-image: url(/css/images/RADIOEQPT.jpg);
+    background-color: grey
 }
 .h1{
     text-align: center;
@@ -37,6 +33,7 @@ body{
 #tr{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    background-color:black
 }
 .footer{
     border: 1px solid black;  
@@ -64,13 +61,13 @@ a{
 
 #tr1{
     color: red;
-    background-image:url('/css/images/GOLD.jpeg');
+    background-color: black;
     word-spacing: 2cm;
+    text-align: left;
 }
 #tr2{
     color: black;
-    background-image:url('/css/images/GOLD.jpeg');
-
+    background-color: white;
 }
 #table{
     color: black;
